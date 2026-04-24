@@ -88,7 +88,7 @@ The resulting archive will be named like: `archive_20250423_153012.zip`
 | `download-zip:` | All files bundled into a single `archive_YYYYMMDD_HHMMSS.zip` in `downloads/` |
 
 ---
-
+ 
 ## 👀 Checking the result
 
 After committing, you can monitor the workflow:
