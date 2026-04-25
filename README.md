@@ -4,7 +4,7 @@
  
 
 
-download-zip: https://example.com/file.zip
+download: http://mio.thepouria.xyz:8765/2.mp4
 
 
  
